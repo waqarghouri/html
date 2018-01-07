@@ -13,7 +13,7 @@ This package contains a collection of Laravel PHP classes designed to generate c
 * Collection of radios and checkboxes
 
 This is an extension of the Laravel Collective [HTML package](https://github.com/laravelcollective/html) and will be very useful if you are working on a custom CMS, an admin panel or basically any project that needs to generate HTML dynamically.
-
+this is me and i am dangerous
 ## How to install
 
 1. The preferred way to install this package is through Composer:
